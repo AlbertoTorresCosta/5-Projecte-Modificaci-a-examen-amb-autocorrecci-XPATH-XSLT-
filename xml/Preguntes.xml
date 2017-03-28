@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE questions>
+<questions>
+    <question id='alum001'>
+		<type>text</type>
+		<title>1-. És important per a tots els desenvolupadors de programari que tenguin una bona comprensió de XML?</title>
+		<answer>Si</answer>
+    </question>
+    <question id='alum002'>
+		<type>select</type>
+		<title>2-. Perquè utilitzem select multiple.</title>
+		<option>a) Per a fer-nos la vida més fàcil.</option>
+		<option>b)Per a comprendre millor el llenguatge màquina.</option>
+		<option>c) Per a complicar-nos la vida.</option>
+		<option>d) Per aprendre coses noves.</option>
+		<option>e) Per evolucionar professionalment.</option>
+		<answer>1</answer>
+	</question>
+    <question id='alum003'>
+		<type>selectM</type>
+		<title>3-. Què més és XML?</title>
+		<option>a) XML significa Extensible Markup Language.</option>
+		<option>b) XML és un llenguatge de marques molt similar a HTML.</option>
+		<option>c) XML és una recomanació de la W3C.</option>
+		<option>d) XML va ser dissenyat per emmagatzemar i transportar dades independent del programari i maquinari.</option>
+		<option>e) XML va ser dissenyat per ser auto-descriptiu i alhora llegible per humà-i-màquina.</option>
+		<answer>12345</answer>
+    </question>
+     <question id='alum004'>
+		<type>checkbox</type>
+		<title>4-. És necessari prestar atenció a l'hora d'aprendre XML?</title>
+		<option>a) SI.</option>
+		<option>b) NO.</option>
+		<option>c) Pot ser.</option>
+        <option>d) Molt.</option>
+		<answer>134</answer>
+	</question>
+   <question id='alum005'>
+		<type>radio</type>
+		<title>5-. És necessari XML per a fer formularis?</title>
+		<option>a) SI.</option>
+		<option>b) NO.</option>
+		<option>c) Pot ser.</option>
+		<answer>1</answer>
+	   </question>
+    <question id='alum006'>
+		<type>select</type>
+		<title>6-. Perquè ens resulta més difícil aprendre javascript.</title>
+		<option>a) Per què és un llenguatge màquina.</option>
+		<option>b) Per què està codificat.</option>
+		<option>c) Per què necessitem descomprimir-lo.</option>
+		<option>d) Per què no s'ha traduït al espanyol.</option>
+		<option>e) Per què no li prestam atenció.</option>
+		<answer>1</answer>
+	</question>
+    <question id='alum007'>
+		<type>checkbox</type>
+		<title>7-. És necessari prestar atenció a l'hora d'aprendre un nou llenguatge?</title>
+		<option>a) SI.</option>
+		<option>b) NO.</option>
+		<option>c) Pot ser.</option>
+		<option>d) Molt.</option>
+		<answer>14</answer>
+    </question>
+    <question id='alum008'>
+		<type>radio</type>
+		<title>8-. Tenint en compte què pot fer XML, podem emprar-lo per detallar la compra d'aliments d'un restaurant?</title>
+		<option>a) SI.</option>
+		<option>b) NO.</option>
+		<option>c) Pot ser.</option>
+		<option>d) No cal utilitzar-la.</option>
+		<option>e) Restulta una eina molt útil.</option>
+		<answer>1</answer>
+    </question>
+    <question id='alum009'>
+		<type>text</type>
+		<title>9-. Necessitem alguna cosa més a banda de xml per fer que funcioni de manera correcta i sigui atractiu visualment?</title>
+		<answer>Si</answer>
+	</question>
+    <question id='alum010'>
+		<type>selectM</type>
+		<title>10-. Què més necessitem a banda d'un xml?</title>
+		<option>a) Necessitem que sigui atractiu visualment amb CSS.</option>
+		<option>b) Necessitem Javascript.</option>
+		<option>c) nNecessitem dissenyar dins el nostre cap l'objectiu que volem aconseguir.</option>
+		<option>d) Necessitem imatges per acompanyar el disseny.</option>
+		<option>e) Necessitem realitzar moltes proves fins aconseguir el resultat que esperàvem.</option>
+		<answer>12345</answer>
+    </question>
+</questions>
